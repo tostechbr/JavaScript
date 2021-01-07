@@ -14,10 +14,17 @@
     <h1>Iniciando</h1>
     <p>Aqui vai o resultado</p>
     <p>Como assim</p>
-    <div>Clique em mim</div>
+    <div class="msg">Clique em mim</div>
     <script>
+        var corpo = window.document.body
         var p1 = window.document.getElementsByTagName('p')[0]
-        window.document.write('Está escrito assim: ' + p1.innerText)
+        /*corpo.style.background = 'white'
+        p1.style.back = 'blue'
+        var d = window.document.getElementById('msg')
+        d.style.background = 'green'
+        //d.innerText = 'Estou aguardando...'*/
+        var d = window.document.querySelector('div.msg')
+        d.style.background = 'red'
     </script>
 </body>
 </html>
