@@ -1,8 +1,8 @@
 <h2>Aprendendo JavaScript</h2>
 
-<p>Repositório este destinado a JavaScript, exercícios e teoria</p>
+<p>Repositório este destinado a JavaScript, exercícios e teoria.</p>
 
-<h3>Gratuitos</h3>
+<h3>Cursos Gratuitos</h3>
 
 <img src="img/js.svg" alt="JavaScript" width="75" height="75">
 
