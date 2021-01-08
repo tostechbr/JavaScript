@@ -4,7 +4,7 @@
 
 <h3>Gratuitos</h3>
 
-<img src="img/js.svg" alt="JavaScript" width="150" height="150">
+<img src="img/js.svg" alt="JavaScript" width="75" height="75">
 
 <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em vídeo</a>
 
