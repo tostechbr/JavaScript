@@ -7,3 +7,6 @@
 <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em vídeo</a>
 
 <a href="https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script">Rocketseat</a>
+
+<a href="https://www.amazon.com/Javascript-Guia-Definitivo-Portuguese-Brasil/dp/856583719X">Livro: JavaScript - O Guia Definitivo</a>
+
