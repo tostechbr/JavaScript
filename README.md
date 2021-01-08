@@ -1,1 +1,7 @@
-<h1>Repositório Destinado para aprendizado de JavaScript</h1>
+<h2>Aprendendo JavaScript</h2>
+
+<p>Repositório este destinado a JavaScript, exercícios e teoria</p>
+
+<p>Gratuitos</p>
+
+<a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em vídeo</a>
