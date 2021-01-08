@@ -2,7 +2,9 @@
 
 <p>Repositório este destinado a JavaScript, exercícios e teoria</p>
 
-<p>Gratuitos</p>
+<h3>Gratuitos</h3>
+
+<img src="img/js.svg" alt="JavaScript" width="500" height="600">
 
 <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em vídeo</a>
 
