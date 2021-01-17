@@ -15,5 +15,4 @@ function tabuada() {
             c++
         }
     }
-
 }
