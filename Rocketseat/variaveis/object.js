@@ -6,4 +6,4 @@ const person = {
     weight: 88.6,
     isAdmin: true
 }
-console.log(person.age)
+console.log(`Opa ${person.age}`)
