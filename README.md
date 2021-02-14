@@ -38,4 +38,4 @@
 * [Livro: JavaScript - O Guia Definitivo](https://www.amazon.com/Javascript-Guia-Definitivo-Portuguese-Brasil/dp/856583719X)
 
 ---
-⌨️ com ❤️ por [Tiago Oliveira](https://gist.github.com/tosantos1) 😊
+⌨️ com ❤️ por [Tiago Oliveira](https://github.com/tosantos1) 😊
