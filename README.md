@@ -1,15 +1,38 @@
-<h2>Aprendendo JavaScript</h2>
+# Javascript
 
-<p>Repositório este destinado a JavaScript, exercícios e teoria.</p>
+<div align="center">
+  <img src="img/js.svg" alt="JavaScript" width="250" height="250"/>
+</div>
 
-<h3>Cursos Gratuitos</h3>
+<!-- ************************************* Baadges ********************************************* -->
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tosantos1/JavaScript?color=342680">
 
-<img src="img/js.svg" alt="JavaScript" width="75" height="75">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tosantos1/JavaScript?color=342680">
+</p>
 
-<a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em vídeo</a>
+<!-- ************************************* Título ********************************************* -->
 
-<a href="https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script">Rocketseat</a>
+<h1> 🚀 Evoluindo em JavaScript</h1>
 
-<a href="https://www.amazon.com/Javascript-Guia-Definitivo-Portuguese-Brasil/dp/856583719X">Livro: JavaScript - O Guia Definitivo</a>
+<!-- ************************************* Sobre o projeto ********************************************* -->
 
+<h2>🔥 Sobre os Estudos</h2>
 
+<p> Nesse repositório vou dedicar um bom tempo para praticar Javascript, acho essa linguagem bastante importante para o ambiente de desenvolvimento. Com isso, pretendo lançar grandes projetos neste repositório. Aguardem...</p>
+
+---
+
+<h3>📚 Linguagens</h3>
+
+* <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JAVASCRIPT </a>
+
+<h3>🧰 Ferramentas</h3>
+
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE de Desenvolvimento. 
+
+<h3 id="referencias"> ⚓ Referências</h3>
+
+* [Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+* [Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
+* [Livro: JavaScript - O Guia Definitivo](https://www.amazon.com/Javascript-Guia-Definitivo-Portuguese-Brasil/dp/856583719X)
