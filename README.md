@@ -35,6 +35,7 @@
 
 * [Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 * [Rocketseat](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
+* [Curso de JavaScript e TypeScript - Luiz Otávio](https://www.udemy.com/share/1026xaCUMadF1WQn4=/)
 * [Livro: JavaScript - O Guia Definitivo](https://www.amazon.com/Javascript-Guia-Definitivo-Portuguese-Brasil/dp/856583719X)
 
 ---
