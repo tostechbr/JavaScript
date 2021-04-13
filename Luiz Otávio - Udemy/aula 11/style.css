@@ -2,11 +2,3 @@
     max-width: 1200px;
     margin: 0 auto;
 }
-a {
-    background-color: blue;
-    font-size: 80px;
-    list-style: none;
-    text-decoration: none;
-    padding: 2rem 2rem;
-    color: white;
-}
