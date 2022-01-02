@@ -25,7 +25,7 @@
 
 <h3>📚 Linguagens</h3>
 
-* <a href="https://medium.com/r/?url=https%3A%2F%2Fyoutu.be%2FcI6WuiHj2E">JAVASCRIPT </a>
+* <a href="#">JAVASCRIPT </a>
 
 <h3>🧰 Ferramentas</h3>
 
